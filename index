@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Barn Directory</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Barn Directory Prototype</h1>
+<p>Replace map.png with your exported map image.</p>
+<div id="map-container">
+  <img id="map" src="map.png" alt="Barn Map">
+</div>
+<div id="info">Click a stall hotspot.</div>
+<script src="script.js"></script>
+</body>
+</html>
