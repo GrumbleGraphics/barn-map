@@ -8,3 +8,21 @@ barn map
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHNKM-xtlU&#x2F;DHcWPl9X4tWpemK4ZG_puA&#x2F;view?utm_content=DAHNKM-xtlU&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">ROUND PEN44.pdf</a> by lauren
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Barn Directory</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Barn Directory Prototype</h1>
+<p>Replace map.png with your exported map image.</p>
+<div id="map-container">
+  <img id="map" src="map.png" alt="Barn Map">
+</div>
+<div id="info">Click a stall hotspot.</div>
+<script src="script.js"></script>
+</body>
+</html>
