@@ -30,3 +30,5 @@ barn map
 fetch('data/horses.json').then(r=>r.json()).then(console.log);
 <img width="1545" height="2000" alt="ROUND PEN jpeg2" src="https://github.com/user-attachments/assets/3d28be15-5a92-457b-bed3-309855bd1d23" />
 
+> body {font-family:Arial,sans-serif;margin:20px}#map{max-width:100%;border:1px solid #ccc}#info{margin-top:20px;padding:10px;border:1px solid #ccc}
+
