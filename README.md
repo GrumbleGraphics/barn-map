@@ -26,3 +26,7 @@ barn map
 <script src="script.js"></script>
 </body>
 </html>
+
+fetch('data/horses.json').then(r=>r.json()).then(console.log);
+<img width="1545" height="2000" alt="ROUND PEN jpeg2" src="https://github.com/user-attachments/assets/3d28be15-5a92-457b-bed3-309855bd1d23" />
+
